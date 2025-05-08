@@ -1,5 +1,3 @@
-swarms
-loguru
-python-dotenv
-pyyaml
-swarm-models
+numpy
+matplotlib
+pandas
