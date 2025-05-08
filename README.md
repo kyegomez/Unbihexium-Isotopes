@@ -16,6 +16,19 @@ This repository contains the research paper and supplementary materials for "The
 4. **Quantify the impact of relativistic effects** on superheavy element stability
 5. **Assess experimental prospects** for synthesizing unbihexium
 
+
+# Experiments
+
+Run the experiments with our script
+
+```bash
+https://github.com/kyegomez/Unbihexium-Isotopes.git
+cd Unbihexium-Isotopes
+pip3 install -r requirements.txt
+python3 experiments.py
+
+```
+
 ## 🔬 Theoretical Background
 
 ### The Nuclear Shell Model
